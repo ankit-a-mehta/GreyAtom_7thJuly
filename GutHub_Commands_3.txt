@@ -1,0 +1,7 @@
+Git Commands
+git init - Command to initialize a local repository
+git remote add origin "url" - Command to map local repository with central repository
+git pull origin master - Command to pull the master branch from central repository
+git status - Command to show the status of all files in the repository
+git add filename - Command to add the file in repository
+git remote set-url origin NEW_URL - Command to reset the URL of local repository
